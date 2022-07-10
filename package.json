@@ -1,0 +1,20 @@
+{
+  "name": "lannisterpay",
+  "version": "1.0.0",
+  "description": "Flutterwave assesment test for graduate trainee",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Sunday Etom Eni",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "body-parser": "^1.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
